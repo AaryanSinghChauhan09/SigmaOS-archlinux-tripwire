@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-tripwire component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-tripwire"
+name = "sigmaos_archlinux_tripwire"
 path = "src/lib.rs"
